@@ -1,0 +1,29 @@
+
+backend/.env
+backend/node_modules
+
+
+
+
+
+# dependencies
+jobly-app/node_modules
+jobly-app/.pnp
+jobly-app/.pnp.js
+
+# testing
+jobly-app/coverage
+
+# production
+jobly-app//build
+
+# misc
+jobly-app/.DS_Store
+jobly-app/.env.local
+jobly-app/.env.development.local
+jobly-app/.env.test.local
+jobly-app/.env.production.local
+
+jobly-app/npm-debug.log*
+jobly-app/yarn-debug.log*
+jobly-app/yarn-error.log*
